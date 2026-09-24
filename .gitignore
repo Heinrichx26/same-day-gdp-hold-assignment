@@ -1,6 +1,5 @@
 __pycache__/
 *.pyc
-.Python
-.venv/
-venv/
+*.pkl
 *.zip
+.DS_Store
